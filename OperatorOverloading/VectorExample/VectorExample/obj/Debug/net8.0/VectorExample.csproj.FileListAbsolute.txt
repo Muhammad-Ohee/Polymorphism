@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\VectorExample\VectorExample\bin\Debug\net8.0\VectorExample.exe
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\VectorExample\VectorExample\bin\Debug\net8.0\VectorExample.deps.json
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\VectorExample\VectorExample\bin\Debug\net8.0\VectorExample.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\VectorExample\VectorExample\bin\Debug\net8.0\VectorExample.dll
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\VectorExample\VectorExample\bin\Debug\net8.0\VectorExample.pdb
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\VectorExample\VectorExample\obj\Debug\net8.0\VectorExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\VectorExample\VectorExample\obj\Debug\net8.0\VectorExample.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\VectorExample\VectorExample\obj\Debug\net8.0\VectorExample.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\VectorExample\VectorExample\obj\Debug\net8.0\VectorExample.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\VectorExample\VectorExample\obj\Debug\net8.0\VectorExample.sourcelink.json
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\VectorExample\VectorExample\obj\Debug\net8.0\VectorExample.dll
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\VectorExample\VectorExample\obj\Debug\net8.0\refint\VectorExample.dll
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\VectorExample\VectorExample\obj\Debug\net8.0\VectorExample.pdb
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\VectorExample\VectorExample\obj\Debug\net8.0\VectorExample.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\VectorExample\VectorExample\obj\Debug\net8.0\ref\VectorExample.dll

@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\ComplexNumberExample\ComplexNumberExample\bin\Debug\net8.0\ComplexNumberExample.exe
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\ComplexNumberExample\ComplexNumberExample\bin\Debug\net8.0\ComplexNumberExample.deps.json
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\ComplexNumberExample\ComplexNumberExample\bin\Debug\net8.0\ComplexNumberExample.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\ComplexNumberExample\ComplexNumberExample\bin\Debug\net8.0\ComplexNumberExample.dll
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\ComplexNumberExample\ComplexNumberExample\bin\Debug\net8.0\ComplexNumberExample.pdb
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\ComplexNumberExample\ComplexNumberExample\obj\Debug\net8.0\ComplexNumberExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\ComplexNumberExample\ComplexNumberExample\obj\Debug\net8.0\ComplexNumberExample.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\ComplexNumberExample\ComplexNumberExample\obj\Debug\net8.0\ComplexNumberExample.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\ComplexNumberExample\ComplexNumberExample\obj\Debug\net8.0\ComplexNumberExample.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\ComplexNumberExample\ComplexNumberExample\obj\Debug\net8.0\ComplexNumberExample.sourcelink.json
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\ComplexNumberExample\ComplexNumberExample\obj\Debug\net8.0\ComplexNumberExample.dll
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\ComplexNumberExample\ComplexNumberExample\obj\Debug\net8.0\refint\ComplexNumberExample.dll
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\ComplexNumberExample\ComplexNumberExample\obj\Debug\net8.0\ComplexNumberExample.pdb
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\ComplexNumberExample\ComplexNumberExample\obj\Debug\net8.0\ComplexNumberExample.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\Polymorphism\OperatorOverloading\ComplexNumberExample\ComplexNumberExample\obj\Debug\net8.0\ref\ComplexNumberExample.dll
