@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MethodOverridingRealTimeExample/1.0.0": {
+        "runtime": {
+          "MethodOverridingRealTimeExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MethodOverridingRealTimeExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,5 @@
+We need to develop an application to calculate bonuses based on the designation of the Employees. The management team has decided to give 50000 as a fixed bonus or based only salary they may get 20% or 25% as bonus whichever is higher. Here, we are taking the example of three different designations, but you can take as many as per your requirement.
+
+If the designation is Developer, then the employee gets either 50000 or 20% of the Salary as a bonus (whichever is higher).
+If the designation is Manager, then the employee gets either 50000 or 25% of the Salary as a bonus (whichever is higher).
+If the designation is Admin, then the employee will get a fixed 50000 as a bonus.

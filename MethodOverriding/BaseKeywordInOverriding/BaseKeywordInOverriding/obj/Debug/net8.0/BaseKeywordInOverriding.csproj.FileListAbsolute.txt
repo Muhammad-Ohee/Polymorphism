@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\Polymorphism\MethodOverriding\BaseKeywordInOverriding\BaseKeywordInOverriding\bin\Debug\net8.0\BaseKeywordInOverriding.exe
+C:\Users\Supernova\Documents\CS\Polymorphism\MethodOverriding\BaseKeywordInOverriding\BaseKeywordInOverriding\bin\Debug\net8.0\BaseKeywordInOverriding.deps.json
+C:\Users\Supernova\Documents\CS\Polymorphism\MethodOverriding\BaseKeywordInOverriding\BaseKeywordInOverriding\bin\Debug\net8.0\BaseKeywordInOverriding.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\Polymorphism\MethodOverriding\BaseKeywordInOverriding\BaseKeywordInOverriding\bin\Debug\net8.0\BaseKeywordInOverriding.dll
+C:\Users\Supernova\Documents\CS\Polymorphism\MethodOverriding\BaseKeywordInOverriding\BaseKeywordInOverriding\bin\Debug\net8.0\BaseKeywordInOverriding.pdb
+C:\Users\Supernova\Documents\CS\Polymorphism\MethodOverriding\BaseKeywordInOverriding\BaseKeywordInOverriding\obj\Debug\net8.0\BaseKeywordInOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\Polymorphism\MethodOverriding\BaseKeywordInOverriding\BaseKeywordInOverriding\obj\Debug\net8.0\BaseKeywordInOverriding.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\Polymorphism\MethodOverriding\BaseKeywordInOverriding\BaseKeywordInOverriding\obj\Debug\net8.0\BaseKeywordInOverriding.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\Polymorphism\MethodOverriding\BaseKeywordInOverriding\BaseKeywordInOverriding\obj\Debug\net8.0\BaseKeywordInOverriding.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\Polymorphism\MethodOverriding\BaseKeywordInOverriding\BaseKeywordInOverriding\obj\Debug\net8.0\BaseKeywordInOverriding.sourcelink.json
+C:\Users\Supernova\Documents\CS\Polymorphism\MethodOverriding\BaseKeywordInOverriding\BaseKeywordInOverriding\obj\Debug\net8.0\BaseKeywordInOverriding.dll
+C:\Users\Supernova\Documents\CS\Polymorphism\MethodOverriding\BaseKeywordInOverriding\BaseKeywordInOverriding\obj\Debug\net8.0\refint\BaseKeywordInOverriding.dll
+C:\Users\Supernova\Documents\CS\Polymorphism\MethodOverriding\BaseKeywordInOverriding\BaseKeywordInOverriding\obj\Debug\net8.0\BaseKeywordInOverriding.pdb
+C:\Users\Supernova\Documents\CS\Polymorphism\MethodOverriding\BaseKeywordInOverriding\BaseKeywordInOverriding\obj\Debug\net8.0\BaseKeywordInOverriding.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\Polymorphism\MethodOverriding\BaseKeywordInOverriding\BaseKeywordInOverriding\obj\Debug\net8.0\ref\BaseKeywordInOverriding.dll
